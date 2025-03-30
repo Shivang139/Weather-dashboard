@@ -4,7 +4,7 @@ A simple and clean web application that allows users to search for the current w
 
 ## Description
 
-This project is a front-end web application built using HTML, CSS, and JavaScript. It fetches weather data from a third-party API (like OpenWeatherMap, WeatherAPI, etc. - **Please specify which one you used**) and displays it in an easy-to-understand format. Users can input a city name to get up-to-date weather information including temperature, humidity, wind speed, weather conditions, and a multi-day forecast.
+This project is a front-end web application built using HTML, CSS, and JavaScript. It fetches weather data from a third-party API (OpenWeatherMap) and displays it in an easy-to-understand format. Users can input a city name to get up-to-date weather information including temperature, humidity, wind speed, weather conditions, and a multi-day forecast.
 
 ## Features
 
@@ -12,11 +12,8 @@ This project is a front-end web application built using HTML, CSS, and JavaScrip
 * **Current Weather:** Displays current temperature, weather conditions (e.g., Sunny, Cloudy, Rain), humidity, and wind speed.
 * **Forecast:** Shows a weather forecast for the upcoming days (e.g., 5-day forecast - **Adjust if different**).
 * **Clean UI:** Simple and intuitive user interface.
-* **(Optional: Add other features like saving recent searches, using geolocation, etc. if applicable)**
 
 ## Demo / Screenshot
-
-**(It's highly recommended to add a screenshot or GIF of your project here!)**
 
 ![Weather Dashboard Screenshot]
 ![image](https://github.com/user-attachments/assets/067cab6d-547e-409d-8e3a-c16b78912dea)
