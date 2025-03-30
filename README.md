@@ -10,7 +10,7 @@ This project is a front-end web application built using HTML, CSS, and JavaScrip
 
 * **City Search:** Find weather information for any city around the world.
 * **Current Weather:** Displays current temperature, weather conditions (e.g., Sunny, Cloudy, Rain), humidity, and wind speed.
-* **Forecast:** Shows a weather forecast for the upcoming days (e.g., 5-day forecast - **Adjust if different**).
+* **Forecast:** Shows a weather forecast for the upcoming days (e.g., 5-day forecast).
 * **Clean UI:** Simple and intuitive user interface.
 
 ## Demo / Screenshot
@@ -26,7 +26,7 @@ This project is a front-end web application built using HTML, CSS, and JavaScrip
 * **HTML:** Structure of the web page.
 * **CSS:** Styling the user interface.
 * **JavaScript:** Handling user input, fetching data from the API, and updating the DOM.
-* **Weather API:** [**Specify the API Name and Link Here, e.g., OpenWeatherMap API**](https://openweathermap.org/api) - Used to fetch weather data.
+* **Weather API:** [**OpenWeatherMap API**](https://openweathermap.org/api) - Used to fetch weather data.
 
 ## Setup and Installation
 
@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 3.  **Get an API Key:**
     * You will need an API key from the weather service you are using (e.g., [OpenWeatherMap](https://openweathermap.org/appid)). Sign up on their website to get a free key.
 4.  **Configure the API Key:**
-    * Open the main JavaScript file (e.g., `script.js`, `main.js` - **Specify the correct file name**).
+    * Open the main JavaScript file (e.g., `app.jsx`).
     * Find the variable where the API key is stored (it might look like `const apiKey = 'YOUR_API_KEY';`).
     * Replace `'YOUR_API_KEY'` with the actual API key you obtained.
     ```javascript
