@@ -76,7 +76,6 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 ## License
 
 Distributed under the [**Choose a License, e.g., MIT**] License. See `LICENSE` file for more information.
-*(If you don't have a LICENSE file, you should add one. The MIT license is a popular choice for open-source projects.)*
 
 ## Contact
 
