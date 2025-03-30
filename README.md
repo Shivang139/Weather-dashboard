@@ -20,7 +20,8 @@ This project is a front-end web application built using HTML, CSS, and JavaScrip
 
 ![Weather Dashboard Screenshot]
 ![image](https://github.com/user-attachments/assets/067cab6d-547e-409d-8e3a-c16b78912dea)
-![image](https://github.com/user-attachments/assets/99b6275a-84ea-4bba-a765-9185ed03178b)
+![image](https://github.com/user-attachments/assets/d1a7b7ec-f519-4f9d-95b7-7bb1fd5a24c7)
+
 
 
 ## Technologies Used
