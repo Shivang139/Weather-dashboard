@@ -4,7 +4,7 @@ A simple and clean web application that allows users to search for the current w
 
 ## Description
 
-This project is a front-end web application built using HTML, CSS, and JavaScript. It fetches weather data from a third-party API (OpenWeatherMap) and displays it in an easy-to-understand format. Users can input a city name to get up-to-date weather information including temperature, humidity, wind speed, weather conditions, and a multi-day forecast.
+This project is a front-end web application built using React Vite and Tailwind CSS. It fetches weather data from a third-party API (OpenWeatherMap) and displays it in an easy-to-understand format. Users can input a city name to get up-to-date weather information including temperature, humidity, wind speed, weather conditions, and a multi-day forecast.
 
 ## Features
 
